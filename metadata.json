@@ -1,0 +1,8 @@
+{
+  "name": "EV-GUARD Agentic Dashboard",
+  "description": "Agentic AI Dashboard for EV Predictive Maintenance showing Master/Worker agent orchestration, UEBA security, and live telemetry.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
